@@ -1,29 +1,59 @@
-Johna-Matthews-NLP-Portfolio/
-├── README.md
-├── NLP-ITAI2373/
-│   ├── A01-NLP-In-Action/
-│   │   ├── notebook.ipynb
-│   │   ├── README.md
-│   ├── Intro-to-Juypter-and-GitHub/
-│   │   ├── notebook.ipynb
-│   │   ├── README.md
-│   ├── L02-NLP-Processing-Techniques/
-│   │   ├── notebook.ipynb
-│   │   ├── README.md
-│   ├── L04-Text-Representation/
-│   │   ├── notebook.ipynb
-│   │   ├── README.md
-│   ├── L05-POS-Tagging/
-│   │   ├── notebook.ipynb
-│   │   ├── README.md
-│   ├── L07-Sentiment-Analysis/
-│   │   ├── notebook.ipynb
-│   │   ├── README.md
-│   ├── NewsBot-Midterm/
-│   │   ├── app.py / notebook.ipynb
-│   │   ├── README.md
-│   ├── NewsBot-Final/
-│   │   ├── app.py / notebook.ipynb
-│   │   ├── README.md
-├── Presentation/
-│   └── Pf_JohnaMatthews_ITAI2373.pdf
+# 👩‍💻 Johna Matthews – AI Portfolio
+
+## 🎓 Program
+AI & Robotics  
+
+## 💡 Overview
+This portfolio showcases my projects and skills developed throughout my studies in Artificial Intelligence, with a focus on Natural Language Processing (NLP), machine learning, and real-world AI applications.
+
+---
+
+## 🛠️ Skills & Technologies
+- Python (Pandas, NumPy)
+- Machine Learning (Scikit-learn)
+- Natural Language Processing (NLTK, SpaCy)
+- Text Representation (TF-IDF, Word Embeddings)
+- Sentiment Analysis (VADER, TextBlob)
+
+---
+
+## 📚 Course Projects
+
+### 🔹 NLP – ITAI 2373
+
+#### 📌 Text Representation (L04)
+- Implemented Bag of Words and TF-IDF
+- Built preprocessing pipeline (tokenization, stemming)
+
+#### 📌 Part-of-Speech Tagging (L05)
+- Compared NLTK vs SpaCy
+- Explored linguistic ambiguity
+
+#### 📌 Sentiment & Emotion Analysis (L07)
+- Built sentiment analyzer (VADER, TextBlob)
+- Developed ML classifier using TF-IDF
+
+---
+
+## 🚀 Featured Projects
+
+### 📰 NewsBot Intelligence System (Midterm)
+- Built an NLP system to analyze news articles
+- Applied preprocessing and TF-IDF
+- Performed sentiment analysis
+
+### 📰 NewsBot Intelligence System 2.0 (Final)
+- Improved NLP pipeline and model performance
+- Enhanced system structure and outputs
+- Demonstrates real-world AI application
+
+---
+
+## 📂 Repository Structure
+Organized by course and project for easy navigation.
+
+---
+
+## 📬 Contact
+- GitHub: https://github.com/Johnal96
+- Email: johnamatthews27@gmail.com
